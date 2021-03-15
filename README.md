@@ -1,6 +1,5 @@
 ### Hi, I'm Branislav Jakovljević! 👋
 
-- 🔭 I’m currently working on LevUp Digital.
 - 🌱 I’m currently learning JavaScript - React.
 - 👯 I’m looking to collaborate on with IT Companies.
 - 💬 Ask me about anything!
