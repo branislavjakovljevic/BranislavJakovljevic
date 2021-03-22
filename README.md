@@ -11,4 +11,4 @@
       linkedin: linkedin.com/in/branislav-jakovljevic <br>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Most of the time of my hobby is finding truffles in the forest!
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
