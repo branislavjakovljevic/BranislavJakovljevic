@@ -6,6 +6,6 @@
 - 📫 How to reach me: <br>
       E-mail: branislav.jakovljevic1997@gmail.com <br>
       Instagram: @bane_jakov <br>
-      linkedin: www.linkedin.com/in/branislav-jakovljevic <br>
+      linkedin: linkedin.com/in/branislav-jakovljevic <br>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Most of the time of my hobby is finding truffles in the forest!
